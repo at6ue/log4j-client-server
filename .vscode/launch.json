@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "npm start",
+      "name": "Server start",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "type": "java",
+      "name": "Client start",
+      "request": "launch",
+      "mainClass": "com.github.at6ue.log4shell.Main",
+      "projectName": "log4j-client-server"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "log4j-client-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "atti",
+  "license": "MIT",
+  "dependencies": {
+    "ldapjs": "^2.3.1"
+  }
+}
